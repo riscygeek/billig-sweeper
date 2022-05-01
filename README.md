@@ -25,6 +25,11 @@ billig-sweeper [-h]
 - libSDL2
 - libSDL2_image
 
+### Flatpak (Comming Soon)
+```
+flatpak install xyz.stuerz.BilligSweeper
+```
+
 ### Arch/Manjaro
 ```
 sudo pacman -S base-devel meson sdl2 sdl2_image
